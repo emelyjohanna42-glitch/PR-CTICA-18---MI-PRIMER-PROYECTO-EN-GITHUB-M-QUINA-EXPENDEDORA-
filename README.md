@@ -14,4 +14,4 @@ Este es un proyecto escolar desarrollado en C# que simula el funcionamiento de u
 3. Ejecuta el código en tu entorno de desarrollo (Visual Studio, VS Code o compiladores en línea).
 
 ## Autor
-**Torres Sánchez Emely Johanna** - *Estudiante de Informática* - [Mi perfil de GitHub](https://github.com/emelyjohanna42-glitch)
+**Torres Sánchez Emely Johanna** - *Estudiante de Informática* - [Mi perfil de GitHub](https://github.com/emelyjohanna42-glitch).
